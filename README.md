@@ -1,1 +1,2 @@
 # KCC-FULL-STACK-DAY7
+Modern Tasks is a minimalist task management web app that helps users stay organized and productive. Built using pure JavaScript without frameworks, it features real-time task tracking, task completion toggling, animated deletion, responsive design, and intuitive keyboard interactions. The project highlights skills in clean code practices, DOM manipulation, responsive UI design, and interactive web development.
